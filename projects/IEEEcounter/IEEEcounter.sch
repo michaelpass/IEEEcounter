@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.0">
+<eagle version="9.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -17966,7 +17966,7 @@ Source: &lt;a href="https://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPo
 <attribute name="VALUE" x="236.22" y="142.24" size="1.778" layer="96"/>
 </instance>
 <instance part="IC3" gate="A" x="139.7" y="152.4" smashed="yes">
-<attribute name="NAME" x="130.048" y="162.814" size="1.778" layer="95"/>
+<attribute name="NAME" x="137.668" y="151.892" size="1.778" layer="95"/>
 <attribute name="VALUE" x="132.08" y="139.573" size="1.778" layer="96"/>
 </instance>
 <instance part="GND1" gate="1" x="289.56" y="147.32" smashed="yes">
@@ -18241,8 +18241,8 @@ Source: &lt;a href="https://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPo
 <attribute name="VALUE" x="200.66" y="144.78" size="1.778" layer="96"/>
 </instance>
 <instance part="VR1" gate="G$1" x="149.86" y="167.64" smashed="yes" rot="R90">
-<attribute name="NAME" x="152.4" y="162.56" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="152.4" y="165.1" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="147.828" y="171.45" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="159.004" y="165.608" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="P+4" gate="VCC" x="30.48" y="45.72" smashed="yes">
 <attribute name="VALUE" x="27.94" y="43.18" size="1.778" layer="96" rot="R90"/>
